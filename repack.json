@@ -1,28 +1,32 @@
-{
-  "sources": [
-    {
-      "name": "FitGirl",
-      "url": "https://fitgirl-repacks.site/"
-    },
-    {
-      "name": "DODI Repacks",
-      "url": "https://dodi-repacks.site/"
-    },
-    {
-      "name": "Xatab",
-      "url": "https://byxatab.com/"
-    },
-    {
-      "name": "qoob",
-      "url": "https://qoob.name/"
-    },
-    {
-      "name": "NNM Club",
-      "url": "https://nnmclub.to/"
-    },
-    {
-      "name": "Rutracker",
-      "url": "https://rutracker.org/"
-    }
-  ]
-}
+[
+  {
+    "name": "FitGirl",
+    "url": "https://fitgirl-repacks.site/",
+    "type": "torrent"
+  },
+  {
+    "name": "DODI Repacks",
+    "url": "https://dodi-repacks.site/",
+    "type": "torrent"
+  },
+  {
+    "name": "Xatab",
+    "url": "https://byxatab.com/",
+    "type": "torrent"
+  },
+  {
+    "name": "qoob",
+    "url": "https://qoob.name/",
+    "type": "torrent"
+  },
+  {
+    "name": "NNM Club",
+    "url": "https://nnmclub.to/",
+    "type": "torrent"
+  },
+  {
+    "name": "Rutracker",
+    "url": "https://rutracker.org/",
+    "type": "torrent"
+  }
+]
